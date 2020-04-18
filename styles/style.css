@@ -300,9 +300,10 @@ nav ul li a{
 }
 
 .bottom-page .bottom-caption-medium{
-  font-size: 18px;
+  font-size: 20px;
   z-index: 1;
   font-weight: 500;
+  width: 30%;
 }
 
 .bottom-page .bottom-caption-large{
